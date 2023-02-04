@@ -1,0 +1,16 @@
+C:\Users\krist\source\repos\prak_10\prak_10\bin\Debug\net5.0\prak_10.exe
+C:\Users\krist\source\repos\prak_10\prak_10\bin\Debug\net5.0\prak_10.deps.json
+C:\Users\krist\source\repos\prak_10\prak_10\bin\Debug\net5.0\prak_10.runtimeconfig.json
+C:\Users\krist\source\repos\prak_10\prak_10\bin\Debug\net5.0\prak_10.runtimeconfig.dev.json
+C:\Users\krist\source\repos\prak_10\prak_10\bin\Debug\net5.0\prak_10.dll
+C:\Users\krist\source\repos\prak_10\prak_10\bin\Debug\net5.0\ref\prak_10.dll
+C:\Users\krist\source\repos\prak_10\prak_10\bin\Debug\net5.0\prak_10.pdb
+C:\Users\krist\source\repos\prak_10\prak_10\obj\Debug\net5.0\prak_10.csproj.AssemblyReference.cache
+C:\Users\krist\source\repos\prak_10\prak_10\obj\Debug\net5.0\prak_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krist\source\repos\prak_10\prak_10\obj\Debug\net5.0\prak_10.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\prak_10\prak_10\obj\Debug\net5.0\prak_10.AssemblyInfo.cs
+C:\Users\krist\source\repos\prak_10\prak_10\obj\Debug\net5.0\prak_10.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\prak_10\prak_10\obj\Debug\net5.0\prak_10.dll
+C:\Users\krist\source\repos\prak_10\prak_10\obj\Debug\net5.0\ref\prak_10.dll
+C:\Users\krist\source\repos\prak_10\prak_10\obj\Debug\net5.0\prak_10.pdb
+C:\Users\krist\source\repos\prak_10\prak_10\obj\Debug\net5.0\prak_10.genruntimeconfig.cache
